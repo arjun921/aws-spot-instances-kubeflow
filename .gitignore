@@ -1,6 +1,6 @@
 *.gif
 *.kubeconfig
-envs/staging/kubeflow-us-east-1/.cache/*
-envs/staging/kubeflow-us-east-1/aws_config/*
-envs/staging/kubeflow-us-east-1/kustomize/*
+envs/*/*/.cache/*
+envs/*/*/aws_config/*
+envs/*/*/kustomize/*
 terminal-recordings/*
