@@ -10,7 +10,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
-![GitHub Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Farjun921%2Faws-spot-instances-kubeflow?style=for-the-badge)
 
 
 
