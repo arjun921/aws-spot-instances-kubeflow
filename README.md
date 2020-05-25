@@ -1,11 +1,18 @@
 # Kubeflow on Spot instances 
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+
+![Kubeflow Logo](assets/kubeflow-logo-1024x390.png)
+
+
+![Kubernetes](http://img.shields.io/badge/kubernetes-1.14-blue?style=for-the-badge&logo=kubernetes)
+![GitHub issues](https://img.shields.io/github/issues/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/arjun921/aws-spot-instances-kubeflow?style=for-the-badge)
+![GitHub Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Farjun921%2Faws-spot-instances-kubeflow?style=for-the-badge)
+
+
 
 
 Config files for setting up Multitenant Kubeflow on AWS with spot instances
