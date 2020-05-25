@@ -2,7 +2,7 @@
 
 
 
-![Kubeflow Logo](assets/kubeflow-logo-1024x390.png)
+![Kubeflow Logo](https://i.postimg.cc/SKNrtQ19/kubeflow-logo-1024x390.png)
 
 
 ![Kubernetes](http://img.shields.io/badge/kubernetes-1.14-blue?style=for-the-badge&logo=kubernetes)
@@ -42,6 +42,10 @@ chmod a+x *.sh
 # Deploy Kubeflow
 ./deploy_kubeflow.sh
 ```
+
+![](https://media.giphy.com/media/h8lk3DdCoNrahIgJnG/giphy.gif)
+
+
 
 ## Prequisites
 ### AWS
