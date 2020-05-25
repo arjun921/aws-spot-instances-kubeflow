@@ -43,8 +43,8 @@ chmod a+x *.sh
 ./deploy_kubeflow.sh
 ```
 
-![](https://media.giphy.com/media/h8lk3DdCoNrahIgJnG/giphy.gif)
 
+![GIF](assets/deploy-kubeflow.gif)
 
 
 ## Prequisites
