@@ -28,7 +28,7 @@ Check the blog for detailed instructions
 - Kubeflow 1.0.1 running on the cluster with only GPU requesting resources running on GPU nodes
 
 # TLDR;
-![](https://i.postimg.cc/RV76WNcz/render1590431813484.gif)
+![](https://cdn-images-1.medium.com/max/800/1*77giv9ZqFwXytwXRQJ4ayw.gif)
 ```bash
 # setup environment
 export ENVIRONMENT=staging
