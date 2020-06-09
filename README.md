@@ -15,9 +15,8 @@
 
 
 Config files for setting up Multitenant Kubeflow on AWS with spot instances
-Repo contains supporting code for the following blog <link coming soon=>
+Repo contains supporting code for [How we reduced our ML training costs by 78%](https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf)
 
-Check the blog for detailed instructions
 
 ## By the end of this tutorial, you will have:
 - An EKS cluster with Kubernetes 1.14 on AWS
