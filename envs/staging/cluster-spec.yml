@@ -1,6 +1,6 @@
 # Author: Arjun Sunil
 # Connect with me: https://arjunsunil.com
-# Supporting tutorial can be found at the following link: https://medium.com/@arjun921/
+# Supporting tutorial can be found at the following link: https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf
 # EKS Cluster Spec with Spot GPU Nodes for Kubeflow with necessary flags enabled for Autoscaling and GPU nodes scale down to 0 at no workload.
 # Built in efforts to reducing training costs of ML workloads.
 # This spec creates a cluster on EKS with the following active nodes 
